@@ -1,6 +1,6 @@
 # Reliability of cognitive task measures
 
-Code for Zorowitz & Niv (under review), _"Improving the reliability of cognitive task measures: A narrative review"_.
+Code for Zorowitz & Niv (in press), _"Improving the reliability of cognitive task measures: A narrative review"_.
 
 ## Author
 Sam Zorowitz (zorowitz [at] princeton.edu)
