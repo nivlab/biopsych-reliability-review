@@ -1,6 +1,6 @@
 # Reliability of cognitive task measures
 
-Code for Zorowitz & Niv (in press), _"Improving the reliability of cognitive task measures: A narrative review"_.
+Code for Zorowitz & Niv (2023), _"Improving the reliability of cognitive task measures: A narrative review"_. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. [https://doi.org/10.1016/j.bpsc.2023.02.004](https://doi.org/10.1016/j.bpsc.2023.02.004)
 
 ## Author
 Sam Zorowitz (zorowitz [at] princeton.edu)
